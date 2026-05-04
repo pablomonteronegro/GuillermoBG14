@@ -1,1 +1,1 @@
-![HTML](https://skillicons.dev/icons?i=html,css,js,mysql,git,github)
+![HTML](https://skillicons.dev/icons?i=html,css,js,mysql)
